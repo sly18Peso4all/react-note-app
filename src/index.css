@@ -11,7 +11,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow: hidden;
-  height: 100vh;
 }
 
 code {
@@ -27,7 +26,7 @@ code {
 }
 
 .dark-mode {
-  background-color: black;
+  background-color: rgb(36, 31, 31);
 }
 
 .dark-mode h1 {
